@@ -57,7 +57,7 @@
 | Folder | Description | Link |
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Eolajos/Eolajos/blob/be9df1f7badcbaad8e21fdbf39531b030bf69363/VIrtual%20Home%20Lab.pdf) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](#) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Eolajos/Eolajos/blob/93be850bb21212131fe3a9d11d3fa44ee7b06db0/Installing%20and%20Hardening%20Active%20Directory.pdf) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
