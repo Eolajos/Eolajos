@@ -59,17 +59,17 @@
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Eolajos/Building-a-multi-VM-cybersecurity-lab/blob/4a018900e153a2124c05cbfb983048d9d0bef39a/Virtual%20Home%20Lab%20Project.pdf) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Eolajos/Identity-and-Access-Management-IAM-Project-Active-Directory-On-Premises-/blob/2050b8521b738a40bc60d1eed81e834bd3414c18/Installing%20and%20Hardening%20Active%20Directory.pdf) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-|
+| 04-aws-iam-ec2 | Configuring IAM policies, EC2 access controls, and secure cloud architecture on AWS | [View Repo](https://github.com/Eolajos/AWS-IAM-and-EC2-Security-Project/blob/main/AWS%20IAM%20and%20EC2%20Security.pdf) |
+| 05-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
+| 06-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
+| 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 08-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 09-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
 ---
 
