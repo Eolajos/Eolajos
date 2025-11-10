@@ -9,9 +9,9 @@
 ### Lab Foundations
 - **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
 
-
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
+- **AWS Cloud Security & IAM Management** – Configured IAM roles, policies, and EC2 access controls with CloudTrail monitoring, S3 bucket security, and Amazon Bedrock integration for automated security insights
 
 ### Vulnerability & Risk Management
 - **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies
@@ -37,6 +37,7 @@
 ### Malware & Exploit Analysis
 - **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
 - **Malicious PDF Analysis** – Payload extraction and script dissection
+
 
 
 
