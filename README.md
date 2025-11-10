@@ -60,7 +60,7 @@
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/Eolajos/Building-a-multi-VM-cybersecurity-lab/blob/4a018900e153a2124c05cbfb983048d9d0bef39a/Virtual%20Home%20Lab%20Project.pdf) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Eolajos/Identity-and-Access-Management-IAM-Project-Active-Directory-On-Premises-/blob/2050b8521b738a40bc60d1eed81e834bd3414c18/Installing%20and%20Hardening%20Active%20Directory.pdf) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
-| 04-aws-iam-ec2 | Configuring IAM policies, EC2 access controls, and secure cloud architecture on AWS | [View Repo](https://github.com/Eolajos/AWS-IAM-and-EC2-Security-Project/blob/main/AWS%20IAM%20and%20EC2%20Security.pdf) |
+| 04-aws-iam-ec2 | Configuring IAM policies, EC2 access controls, and secure cloud architecture on AWS | [View Repo](https://github.com/Eolajos/AWS---Cloud-Security-Project-Configuring-and-hardening-Cloud-console-in-AWS) |
 | 05-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Eolajos/Security-policy-dev/blob/d3a73248dcf83876f3f90be2e184999bd47782c1/README%20(1).md) |
 | 06-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
