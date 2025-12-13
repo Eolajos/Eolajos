@@ -27,6 +27,11 @@
 ### Threat Hunting & Framework Mapping
 - **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections
 
+### AWS Cloud Security Assessment with Prowler
+- Conducted a full security audit of an AWS test environment using **Prowler** on Kali Linux.
+- Evaluated **IAM roles, S3 buckets, security groups, logging configurations**, and **CIS AWS benchmark compliance**.
+- Generated **HTML and PDF reports** for analysis and evidence.
+
 ### Social Engineering Defence
 - **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher
 - **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation
@@ -46,7 +51,7 @@
 ## Tools & Skills
 
 - VirtualBox, VMware, AWS Free Tier
-- Wireshark, Nmap, Nessus, Nikto, sqlmap
+- Wireshark, Nmap, Nessus, Nikto, sqlmap, Prowler
 - Wazuh, Suricata, Elastic Stack, Splunk
 - Kali Linux, Windows Server, Ubuntu, pfSense
 - Git, GitHub, Markdown documentation
@@ -61,18 +66,18 @@
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/Eolajos/Identity-and-Access-Management-IAM-Project-Active-Directory-On-Premises-) |
 | 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
 | 04-aws-iam-ec2 | Configuring IAM policies, EC2 access controls, and secure cloud architecture on AWS | [View Repo](https://github.com/Eolajos/AWS---Cloud-Security-Project-Configuring-and-hardening-Cloud-console-in-AWS) |
-| 05-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Eolajos/Security-policy-dev/blob/d3a73248dcf83876f3f90be2e184999bd47782c1/README%20(1).md) |
-| 06-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Eolajos/Vulnerability-assessment-Network-and-Web-App-scanning-using-Nessus-and-Nmap) |
-| 07-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
-| 08-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 09-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Eolajos/Threat-Hunting-Framework-Mapping/blob/c5db8b723b295c57ac81c71ee66971cf1da7a521/README.md) |
-| 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
-| 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
-| 12-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
-| 13-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 14-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 05-aws-prowler-assessment | Cloud Security Assessment using Prowler on AWS, including IAM, S3, Security Groups, logging, and CIS benchmark compliance | [View Repo](#) |
+| 06-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Eolajos/Security-policy-dev/blob/d3a73248dcf83876f3f90be2e184999bd47782c1/README%20(1).md) |
+| 07-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Eolajos/Vulnerability-assessment-Network-and-Web-App-scanning-using-Nessus-and-Nmap) |
+| 08-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 09-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
+| 10-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Eolajos/Threat-Hunting-Framework-Mapping/blob/c5db8b723b295c57ac81c71ee66971cf1da7a521/README.md) |
+| 11-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
+| 12-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
+| 13-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
+| 14-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
+| 15-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
 
----
 
 ## Contact
 
