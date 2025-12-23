@@ -69,7 +69,7 @@
 | 05-aws-prowler-assessment | Cloud Security Assessment using Prowler on AWS, including IAM, S3, Security Groups, logging, and CIS benchmark compliance | [View Repo](https://github.com/Eolajos/aws-prowler-cloud-assessment) |
 | 06-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/Eolajos/Security-policy-dev/blob/d3a73248dcf83876f3f90be2e184999bd47782c1/README%20(1).md) |
 | 07-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/Eolajos/Vulnerability-assessment-Network-and-Web-App-scanning-using-Nessus-and-Nmap) |
-| 08-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
+| 08-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/Eolajos/splunk-failed-login-alert) |
 | 09-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
 | 10-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/Eolajos/Threat-Hunting-Framework-Mapping/blob/c5db8b723b295c57ac81c71ee66971cf1da7a521/README.md) |
 | 11-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/Eolajos/Phishing-Security-Simulation-) |
