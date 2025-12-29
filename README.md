@@ -76,7 +76,9 @@
 | 12-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/Eolajos/Phishing-Email-Analysis) |
 | 13-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 14-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
-| 15-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+| 15-dos-packet-flood | DoS packet flood simulation using Xerxes in a controlled lab environment | [View Repo](#) |
+| 16-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
+
 
 
 ## Contact
